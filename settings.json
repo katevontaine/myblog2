@@ -1,0 +1,27 @@
+{
+"blog": {
+ "url": "http://katevontaine.github.io/myblog2",
+ "title": "Kate WIlson",
+ "description": "My space for space",
+ "logo": "https://avatars.githubusercontent.com/u/115030?v=3",
+ "cover": "assets/images/coverArt.jpg",
+ "social": {
+   "twitter": "katevontaine",
+   "github": "katevontaine",
+   "linked": "katevontaine",
+   "instagram": "katevontaine"
+ },
+ "google_analytics": "",
+ "disqus_shortname": ""
+},
+"authors": {
+ "default": {
+   "name": "Kate Wilson",
+   "bio": "ordinary guy who is extraordinarily curious about our world. born in hawaii, military family, loves beach, nature, and people. Instructor @theironyard",
+   "website": "http://calweb.github.io/author/calvin",
+   "image": "https://avatars.githubusercontent.com/u/115030?v=3",
+   "cover": "http://lorempixel.com/1100/425/animals/",
+   "slug": "kate"
+ }
+}
+}
